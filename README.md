@@ -129,6 +129,10 @@ Sdna是空间句法的前沿模型，学sdna首先需要掌握空间句法，掌
 
 国内研究论文有杨滔从基于空间句法的角度研究多尺度城市空间网络形态，描述城市空间网络形态的概念型框架,从聚集、分散以及尺度三个机制维度解释城市空间网络形态的几何特征[^2].
 
+相关同类软件
+Urban Network Analysis（UNA，基于ArcGIS Network Analyst 的一款插件）
+Axwoman（国人江斌教授利用AO开发的一款空间句法ArcGIS 插件）
+
 ### AHP
 
 层次分析法，简称AHP，是指将与决策总是有关的元素分解成目标,准则,方案等层次,在此基础之上进行定性和定量分析的决策方法.该方法是美国运筹学家匹茨堡大学教授萨蒂于20世纪70年代初,在为美国国防部研究”根据各个工业部门对国家福利的贡献大小而进行电力分配”课题时,应用网络系统理论和多目标综合评价方法,提出的一种层级理论.
@@ -137,9 +141,18 @@ Sdna是空间句法的前沿模型，学sdna首先需要掌握空间句法，掌
 
 ## workflow
 
-传统的制图流程，软件
-cad su rhino
-Workflow
+Rhino
+3DS Max
+AutoCAD
+ProE
+Solidworks
+Maya
+SketchUp
+C4D
+Blender
+lumion
+vary
+twinnation
 
 ### Material
 
@@ -155,17 +168,17 @@ Workflow
 
 | Name | Description |
 | -- | -- |
-|东南 https://github.com/ChangWinde/SouthEastUniversity
-|北大 项目1：https://github.com/tongtzeho/PKUCourse 项目2：https://github.com/lib-pku/libpku
-|上交 https://github.com/c-hj/SJTU-Courses
-|中山 https://github.com/sysuexam/SYSU-Exam
-|南京 https://github.com/idealclover/NJU-Review-Materials
-|郑州 https://github.com/CooperNiu/ZZU-Courses-Resource
-|广州工业大学计算机 https://github.com/brenner8023/gdut-course
-|清华大学计算机系课程攻略 https://github.com/PKUanonym/REKCARC-TSC-UHT 项目2 https://github.com/Salensoft/thu-cst-cracker
-|中国科学技术大学课程资源 项目1：https://github.com/USTC-Resource/USTC-Course 项目2：https://github.com/15172658790/Blog 项目3：https://github.com/HuangCongQing/UCAS_Course_2019
-|浙江大学课程共享计划地址1：https://github.com/QSCTech/zju-icicles地址2：https://qsctech.github.io/zju-icicles/
-bilibili大学：https://github.com/elder-frog/OpenCourseCatalog
+| [东南](https://github.com/ChangWinde/SouthEastUniversity) | https://github.com/ChangWinde/SouthEastUniversity |
+| [北大]() | [项目1]https://github.com/tongtzeho/PKUCourse [项目2](https://github.com/lib-pku/libpku) |
+| [上交](https://github.com/c-hj/SJTU-Courses) | https://github.com/c-hj/SJTU-Courses |
+| [中山](https://github.com/sysuexam/SYSU-Exam) | https://github.com/sysuexam/SYSU-Exam |
+| [南京](https://github.com/idealclover/NJU-Review-Materials) | https://github.com/idealclover/NJU-Review-Materials |
+| [郑州](https://github.com/CooperNiu/ZZU-Courses-Resource) | https://github.com/CooperNiu/ZZU-Courses-Resource |
+| [广州工业大学计算机](https://github.com/brenner8023/gdut-course) | https://github.com/brenner8023/gdut-course |
+| [清华大学计算机系课程攻略] | [项目1](https://github.com/PKUanonym/REKCARC-TSC-UHT) [项目2](https://github.com/Salensoft/thu-cst-cracker) |
+| [中国科学技术大学课程资源] | [项目1](https://github.com/USTC-Resource/USTC-Course) [项目2](https://github.com/15172658790/Blog) [项目3](https://github.com/HuangCongQing/UCAS_Course_2019) |
+| [浙江大学课程共享计划] | [地址1](https://github.com/QSCTech/zju-icicles) [地址2](https://qsctech.github.io/zju-icicles/) |
+| [bilibili大学](https://github.com/elder-frog/OpenCourseCatalog) | https://github.com/elder-frog/OpenCourseCatalog |
 
 ## E books
 
@@ -184,8 +197,6 @@ bilibili大学：https://github.com/elder-frog/OpenCourseCatalog
 | 上海交通大学生存手册 | 关于大学 |
 | 知乎助手 | 将知乎内容转为 Epub 电子书 |
 | 知末网 |	模型下载 |
-
-
 
 ### Github projects
 
