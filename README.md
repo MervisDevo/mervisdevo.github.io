@@ -53,6 +53,8 @@ Contents
 
 在当前国土空间规划，多规合一背景下，计算机，地信等专业对规划专业疯狂挤压，修规控规，打不过?那就加入吗?实际上城乡规划不是如何避免边缘化的问题，而是从未进入过核心地带，没有上层建筑和学科基础，只有画图狗支起来的蒙古包，成不了高楼大厦，继续走技术主义的劳动密集性产业，只有死路一条。
 
+中文维基百科词条“城市规划”
+
 </p>
 </details>
 
@@ -60,20 +62,23 @@ Contents
 
 ### Arcgis
 
-ArcGis是围绕着Geodatabase数据库构建的,最重要的是数据，Arcgis其实是一个工具集，
-以数据为基础,以画图为导向去学习ArcGIS，以ArcGIS来辅助不多的研究需要，
+ArcGis是围绕着Geodatabase数据库构建的，数据是基础，Arcgis本质是一个工具集，建议以画图为导向去学习ArcGIS。
+利用好ArcGis的帮助文档，可以解决在使用中遇到的绝大部分问题。
 
-空间分析
-
+推荐阅读
 《地理信息系统导论》
-《》
+《地理信息系统教程》汤国安
 《ARCGIS地理信息系统空间分析实验教程》汤国安
 
-### Acrpy
+#### Acrpy
 
-《面向arcgis的python编程》
+ArcGIS中的python主要是ArcPy和ArcGIS API for Python。ArcPy主要是通过python操作ArcMap或者ArcGIS Pro桌面处理工具，提供了很多用于处理和查询GIS数据的函数和类。在ArcGIS体系中既有2.x版本也有3.x版本。ArcGIS API for Python则主要用于管理及使用Web端的空间资源，用于在web端实现GIS数据可视化和分析、空间数据管理、用户管理等
+
+推荐入门：《面向arcgis的python编程》
 
 ### Qgis
+
+Qgis是一款开源的GIS软件
 
 ### About The Competition
 | Site name	| Description |
@@ -83,16 +88,21 @@ ArcGis是围绕着Geodatabase数据库构建的,最重要的是数据，Arcgis�
 
 ### Graphics presentation
 
+
 | -- | -- |
 | weather | |
 
 ### Scientific research and thesis
 
+对于科研人员来说，最难受的莫过于阅读或下载自己写的论文竟然还需要向出版商交钱。
+
+知识，开源
+
 | Site name |	Description |
 | -- | -- |
-| Sci-hub	| Remove the batteries |
+| Sci-hub	| To remove all barriers in the way of science |
 | PLOS	| Breaking boundaries.Empowering researchers.Opening Science |
-| Researchgate |
+| Researchgate |  |
 
 ### SPSS
 
@@ -131,7 +141,7 @@ Sdna是空间句法的前沿模型，学sdna首先需要掌握空间句法，掌
 
 相关同类软件
 Urban Network Analysis（UNA，基于ArcGIS Network Analyst 的一款插件）
-Axwoman（国人江斌教授利用AO开发的一款空间句法ArcGIS 插件）
+Axwoman（江斌教授利用AO开发的一款空间句法ArcGIS 插件）
 
 ### AHP
 
