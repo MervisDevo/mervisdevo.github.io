@@ -111,7 +111,7 @@ Qgis是一款开源的GIS软件
 
 | Site name |	Description |
 | -- | -- |
-| Sci-hub	| To remove all barriers in the way of science |
+| [Sci-hub](https://www.sci-hub.se/)	| To remove all barriers in the way of science [Mirrors1](https://sci-hub.st/)[Mirrors2](https://sci-hub.ru/) |
 | PLOS | Breaking boundaries.Empowering researchers.Opening Science |
 | Researchgate |  |
 
@@ -250,16 +250,18 @@ Back to- [Contents](#contents)
 github projects
 | Name | Description |
 | -- | -- |
-|  | |
+|  |  |
 
 ## Game and Animation production
 ### Unreal Engine
 
 | 平台：Youtube | Description |
-| 1. | |
+| -- | -- |
+| 1. |  |
 
 | 平台：Bilibili |	Description |
-| 1.谌嘉诚	| Unreal engine 4教程,个人网站https://www.hellocjc.com/ |
+| -- | -- |
+| 1.谌嘉诚	| Unreal engine 4教程 [个人网站](https://www.hellocjc.com/) |
 
 ### Blender
 
@@ -299,6 +301,12 @@ Blender是免费和开源的3D创作套件。您可以出于任何自由的目�
 | 2.Blender王子 | |
 
 Other
+
+资源/教程/推荐
+| Name | Description |
+| -- | -- |
+| [Artstation](https://www.artstation.com/?sort_by=community) |  |
+
 Substance Painter
 Contact
 Having trouble with Pages? Check out our documentation or contact support
